@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 2rem;
+}
+
+img:hover {
+  filter: drop-shadow(2px 12px 29px #ffffff);
+}
